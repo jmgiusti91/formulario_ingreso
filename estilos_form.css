@@ -15,7 +15,7 @@
 	flex-flow:column nowrap;
 }
 
-.campo_nombre, .campo_mail, .campo_edad, .campo_fecha, .campo_sexo, .campo_profesion, .campo_antiguedad, .campo_usuario, .campo_pass{
+.campo_nombre, .campo_mail, .campo_edad, .campo_fecha, .campo_sexo, .campo_profesion, .campo_antiguedad, .campo_usuario, .campo_pass, .campo_intereses{
 	margin:20px 5px;
 }
 
@@ -57,4 +57,11 @@ label{
 
 .campo_pass label{
 	margin-right: 13px;
+}
+
+#categorias{
+	display: flex;
+	flex-flow:column nowrap;
+	width:100%;
+	justify-content:center;
 }
