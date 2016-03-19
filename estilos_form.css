@@ -15,7 +15,7 @@
 	flex-flow:column nowrap;
 }
 
-.campo_nombre, .campo_mail, .campo_edad, .campo_fecha, .campo_sexo, .campo_profesion, .campo_antiguedad, .campo_usuario, .campo_pass, .campo_intereses{
+.campo_nombre, .campo_mail, .campo_edad, .campo_fecha, .campo_sexo, .campo_profesion, .campo_antiguedad, .campo_usuario, .campo_pass, .campo_intereses, .campo_foto{
 	margin:20px 5px;
 }
 
@@ -63,5 +63,25 @@ label{
 	display: flex;
 	flex-flow:column nowrap;
 	width:100%;
+}
+
+.btn-envio{
+	display: flex;
+	flex-flow:row nowrap;
 	justify-content:center;
+}
+
+#enviar{
+	background-color: #00BFFF;
+	color:#FFF;
+	padding: 10px 20px;
+	border:1px solid #00BFFF;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 1.1rem;
+	transition: 0.3s all ease;
+}
+
+#enviar:hover{
+	background-color: #045FB4;
 }
