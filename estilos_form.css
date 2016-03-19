@@ -1,0 +1,24 @@
+.contenedor{
+	display: flex;
+	flex-flow: row wrap;
+	width:100%;
+	justify-content:center;
+}
+
+.contenedor h1{
+	width: 100%;
+	text-align: center;
+}
+
+.contenedor .formulario{
+	display: flex;
+	flex-flow:column nowrap;
+}
+
+.contenedor .campo_nombre label{
+	margin-right: 35px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size:1.3rem;
+	color:#444;
+}
