@@ -1,0 +1,29 @@
+commit 78c6ffb91ec5f647a526a8028a1d2b450eef1250
+Author: Juan <jmgiusti91@gmail.com>
+Date:   Sat Mar 19 15:29:54 2016 -0300
+
+    Agregamos campo sexo
+
+commit 78402071d21914096fc95946ce47059792af98b1
+Author: Juan <jmgiusti91@gmail.com>
+Date:   Sat Mar 19 15:24:18 2016 -0300
+
+    Agregamos campor fecha nacimiento
+
+commit e3fe60975686cdc8e18e9da4f6a6d015e0940c6e
+Author: Juan <jmgiusti91@gmail.com>
+Date:   Sat Mar 19 15:20:04 2016 -0300
+
+    Agreganos campor edad
+
+commit e98b0b95be43f369f9f1a07bb84948320c589c54
+Author: Juan <jmgiusti91@gmail.com>
+Date:   Sat Mar 19 15:10:39 2016 -0300
+
+    Agregamos el campo mail
+
+commit 798f7bbe38ceeee668d1c133b2433fb50ea8aa4a
+Author: Juan <jmgiusti91@gmail.com>
+Date:   Sat Mar 19 15:02:05 2016 -0300
+
+    Agregamos campo nombre

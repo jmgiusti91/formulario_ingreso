@@ -15,45 +15,46 @@
 	flex-flow:column nowrap;
 }
 
-.campo_nombre, .campo_mail, .campo_edad, .campo_fecha, .campo_sexo{
+.campo_nombre, .campo_mail, .campo_edad, .campo_fecha, .campo_sexo, .campo_profesion, .campo_antiguedad, .campo_usuario, .campo_pass{
 	margin:20px 5px;
+}
+
+label{
+	font-family: Arial;
+	font-weight: bold;
+	font-size:1.3rem;
+	color:#444;
 }
 
 .campo_nombre label{
 	margin-right: 35px;
-	font-family: Arial;
-	font-weight: bold;
-	font-size:1.3rem;
-	color:#444;
 }
 
 .campo_mail label{
 	margin-right: 57px;
-	font-family: Arial;
-	font-weight: bold;
-	font-size:1.3rem;
-	color:#444;
 }
 
 .campo_edad label{
 	margin-right: 61px;
-	font-family: Arial;
-	font-weight: bold;
-	font-size:1.3rem;
-	color:#444;
 }
 
 .campo_fecha label{
 	margin-right: 10px;
-	font-family: Arial;
-	font-weight: bold;
-	font-size:1.3rem;
-	color:#444;
 }
 
-.campo_sexo label{
-	font-family: Arial;
-	font-weight: bold;
-	font-size:1.3rem;
-	color:#444;
+
+.campo_profesion label{
+	margin-right: 10px;
+}
+
+.campo_antiguedad label{
+	margin-right: 10px;
+}
+
+.campo_usuario label{
+	margin-right: 35px;
+}
+
+.campo_pass label{
+	margin-right: 13px;
 }
