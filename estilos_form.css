@@ -15,7 +15,7 @@
 	flex-flow:column nowrap;
 }
 
-.campo_nombre, .campo_mail{
+.campo_nombre, .campo_mail, .campo_edad{
 	margin:20px 5px;
 }
 
@@ -28,7 +28,15 @@
 }
 
 .campo_mail label{
-	margin-right: 55px;
+	margin-right: 57px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size:1.3rem;
+	color:#444;
+}
+
+.campo_edad label{
+	margin-right: 61px;
 	font-family: Arial;
 	font-weight: bold;
 	font-size:1.3rem;
